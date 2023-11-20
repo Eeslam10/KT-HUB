@@ -56,7 +56,7 @@ input {
 article {
     display: flex;
     justify-content:flex-start;
-    gap: 8.4rem;
+    gap: 8.3rem;
     align-items: center; 
     margin-top: 3rem;  
     margin-bottom: 3rem;  
